@@ -1,5 +1,7 @@
 **Sentiment Analysis with Temporal Convolutional Networks (TCNs)**
+
 **Introduction**
+
 This project presents a novel approach to sentiment analysis by utilizing Temporal Convolutional Networks (TCNs) instead of traditional recurrent neural networks (RNNs) like LSTMs. TCNs offer several advantages over RNNs, including efficiency, capability to capture long-range dependencies, and innovation in sequence modeling tasks.
 
 **Why TCNs?**
