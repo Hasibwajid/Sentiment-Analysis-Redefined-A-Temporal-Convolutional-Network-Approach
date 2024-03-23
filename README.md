@@ -38,7 +38,7 @@ Custom TCN model definition tailored for sentiment analysis.
 
 Training and evaluation routines.
 
-To run the sentiment analysis model, you would execute the Jupyter Notebook. This notebook provides options to control hyperparameters, allowing for customization according to specific requirements.
+To run the sentiment analysis model, you would execute the Jupyter Notebook. This notebook provides options to control hyperparameters, allowing for customization according to specific requirements. 
 
 In essence, this project explores a groundbreaking approach to sentiment analysis using TCNs, offering an efficient and effective alternative to RNNs.
 
