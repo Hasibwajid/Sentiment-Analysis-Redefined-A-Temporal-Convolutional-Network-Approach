@@ -26,7 +26,7 @@ Dataset: We use the IMDB movie review dataset.
 
 **TCN Model Architecture:**
 
-Inspired by the architecture provided in this repository (used for reference only), we build a custom TCN model.
+Inspired by the architecture provided in this repository https://github.com/locuslab/TCN (used for reference only), we build a custom TCN model.
 
 This model employs temporal convolutional blocks designed to extract sentiment-bearing features from the sequence of words.
 
